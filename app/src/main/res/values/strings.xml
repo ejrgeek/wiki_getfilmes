@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wiki GetFilmes</string>
+    <string name="tab_gender_1">Ação</string>
+    <string name="tab_gender_2">Drama</string>
+    <string name="tab_gender_3">Fantasia</string>
+    <string name="tab_gender_4">Ficção</string>
+    <string name="search">Search</string>
+</resources>
